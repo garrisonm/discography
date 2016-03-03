@@ -209,3 +209,7 @@ b {
   padding: 10px;
   padding-right: 20px;
 }
+
+.members img {
+  border: 6px solid #fff;
+}
