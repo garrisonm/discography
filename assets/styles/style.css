@@ -213,3 +213,7 @@ b {
 .members img {
   border: 6px solid #fff;
 }
+
+i {
+  font-style: italics;
+}
